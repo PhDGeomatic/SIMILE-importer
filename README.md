@@ -10,6 +10,6 @@ Download the [ZIP file](https://github.com/PhDGeomatic/SIMILE-importer/releases/
 
 Launch QGIS and select "Plugins" -> "Manage and Install Plugins..." from the top menu
 
-Select the TAB "Install from ZIP" and browse to the ZIP file just downloaded
+Select "Install from ZIP" and browse to the ZIP file just downloaded
 
 Click "Install Plugin"
