@@ -7,7 +7,7 @@ It queries the SIMILE database using the [SIMILE Api](https://api-simile.como.po
 
 ## Installation
 
-Download the [ZIP file](https://github.com/PhDGeomatic/SIMILE-importer/releases/download/1.0.0/simile_importer_v1.0.0.zip) of the last release form the [Releases page](https://github.com/PhDGeomatic/SIMILE-importer/releases) 
+Download the [ZIP file](https://github.com/PhDGeomatic/SIMILE-importer/releases/download/1.0.0/simile_importer_v1.0.0.zip)
 
 Launch QGIS and select "Plugins" -> "Manage and Install Plugins..." from the menu bar
 
