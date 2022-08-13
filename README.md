@@ -2,7 +2,7 @@
 
 # SIMILE Importer
  
-A QGIS Plugin to show the observations about the quality of the insubric lakes collect by the citizen with the [SIMILE APP](https://github.com/interreg-simile/simile-app).<br/>
+A QGIS Plugin to show the observations about the quality of the insubric lakes collect with the [SIMILE APP](https://github.com/interreg-simile/simile-app).<br/>
 It queries the SIMILE database using the [SIMILE Api](https://api-simile.como.polimi.it/v1/docs) and creates a point vector layer with the geolocalized data.
 
 ## Installation
